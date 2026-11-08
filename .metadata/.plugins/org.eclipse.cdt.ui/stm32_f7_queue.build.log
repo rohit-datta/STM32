@@ -1,0 +1,10 @@
+16:35:06 **** Incremental Build of configuration Debug for project stm32_f7_queue ****
+make -j12 all 
+arm-none-eabi-size  stm32_f7_queue.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23172	     96	  20824	  44092	   ac3c	stm32_f7_queue.elf
+Finished building: default.size.stdout
+ 
+
+16:35:06 Build Finished. 0 errors, 0 warnings. (took 627ms)
+

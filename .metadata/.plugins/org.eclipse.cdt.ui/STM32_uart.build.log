@@ -1,0 +1,10 @@
+09:31:57 **** Incremental Build of configuration Debug for project STM32_uart ****
+make -j12 all 
+arm-none-eabi-size  STM32_uart.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10492	     16	   2656	  13164	   336c	STM32_uart.elf
+Finished building: default.size.stdout
+ 
+
+09:31:57 Build Finished. 0 errors, 0 warnings. (took 586ms)
+

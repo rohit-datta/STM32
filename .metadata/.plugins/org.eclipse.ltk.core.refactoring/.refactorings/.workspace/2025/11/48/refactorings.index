@@ -1,0 +1,5 @@
+1764311866926	Rename resource 'STM32_uart'
+1764312002362	Rename resource 'STM32_UART_interrupt'
+1764312040363	Rename resource 'STM32_uart_int_transmit'
+1764312225718	Rename resource 'STM32_dma'
+1764312264399	Rename resource 'STM32_dma_cir'

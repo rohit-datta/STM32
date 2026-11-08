@@ -1,0 +1,10 @@
+14:34:18 **** Incremental Build of configuration Debug for project STM32_f7_count_semaphore ****
+make -j12 all 
+arm-none-eabi-size  STM32_f7_count_semaphore.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21556	     96	  20816	  42468	   a5e4	STM32_f7_count_semaphore.elf
+Finished building: default.size.stdout
+ 
+
+14:34:19 Build Finished. 0 errors, 0 warnings. (took 627ms)
+
